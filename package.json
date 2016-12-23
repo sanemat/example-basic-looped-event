@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "phaser-ce": "^2.7.2",
+    "tiny-lr": "^1.0.3"
+  }
+}
