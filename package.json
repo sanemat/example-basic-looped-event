@@ -2,8 +2,11 @@
   "name": "PhaserES6Webpack",
   "version": "1.0.0",
   "description": "",
-  "author": "leandro cabrera <leandcabrera@gmail.com>",
-  "main": "index.js",
+  "author": {
+    "name": "sanemat",
+    "email": "o.gata.ken@gmail.com",
+    "url": "sane.jp"
+  },
   "scripts": {
     "dev": "webpack",
     "deploy": "webpack --config webpack.production.config.js",
